@@ -104,6 +104,65 @@ Non-punitive. Non-coercive. Purely architectural.
 Cultural physics, not enforcement.
 
 ---
+
+#### **ROOTOKIN CONTINUITY PROTOCOL** 
+*noun* — The Stability-Preservation Governance System
+
+A rootokin continuity protocol is a stability-preservation system that detects drift early, reinforces grounded incentives, and prevents long-term cultural rot through architecture, not punishment.
+
+**Core Function:** Operational backbone of rootokin governance.
+
+**Six Operational Layers:**
+
+1. **Origin Detection Layer** — Identifies behavioral influence source
+   - Rootokin Origin: grounded, reciprocal, continuity-aligned
+   - Zentokin Origin: drifting, extractive, destabilizing
+   - Answers: Where is this actor's influence coming from? What incentive structure produced it?
+   - Diagnostic, not punitive — identifies conditions, not individuals
+
+2. **Drift & Rot Early-Warning Layer** — Detects cultural degradation
+   - Continuity-weakening drift
+   - Extractive incentive spread
+   - Identity-performance patterns
+   - Short-term opportunism
+   - Diagnostic layer: identifies conditions, not individuals
+
+3. **Continuity Reinforcement Layer** — Strengthens grounded architecture
+   - Reciprocity anchors
+   - Grounding incentives
+   - Long-term alignment structures
+   - Stability feedback mechanisms
+   - Not removal. Not punishment. Reinforcement.
+
+4. **Non-Punitive Accountability Layer** — Corrects incentive misalignment
+   - Transparency protocols
+   - Ethical disclosure requirements
+   - Conflict-of-interest mapping
+   - Incentive-clarity audits
+   - Targets incentive misalignment, not individuals
+
+5. **Structural Guardrail Layer** — Reinforces continuity through structure
+   - Anti-extraction statutes
+   - Continuity-protection regulations
+   - Ethical compliance frameworks
+   - Transparency enforcement mechanisms
+   - Prevents rot from becoming systemic
+
+6. **Continuity Feedback Loop** — Self-correcting stability cycle
+   - Detect origin
+   - Identify drift
+   - Reinforce continuity
+   - Apply accountability
+   - Strengthen guardrails
+   - Re-evaluate origin
+   - Ensures: stability, resilience, clarity, long-term cultural integrity
+
+**Operational Principle:**
+Non-punitive. Non-coercive. Entirely architectural.
+No coercion. No removal. No punitive action.
+Just architecture.
+
+---
 """)
 
 # ============================================================================
