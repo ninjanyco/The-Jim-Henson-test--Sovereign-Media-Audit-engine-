@@ -9,7 +9,186 @@ st.sidebar.markdown("""
 ### 🎬 Creator & Resources
 **Channel:** [@heroicnyco](https://youtube.com/@heroicnyco)
 
-**ROOTOKIN SYSTEM BLUEPRINT**
+---
+
+## **ROOTOKIN SYSTEM MANIFEST**
+
+Rootokin is a unified cultural‑governance organism that preserves continuity, neutralizes drift, amplifies reciprocity, and stabilizes identity across all scales through resonance, harmonics, and architectural containment — never coercion, never removal, never punitive force.
+
+**It is continuity embodied.**
+
+---
+
+#### **1. Identity Declaration**
+
+Rootokin is:
+- Continuity embodied
+- Reciprocity harmonized
+- Stability engineered
+- Drift-resistant architecture
+- Non-punitive governance physics
+
+**Key Principles:**
+- Rootokin does not target people. Rootokin targets conditions.
+- Rootokin does not enforce punishment. Rootokin enforces continuity.
+- Rootokin does not remove actors. Rootokin removes rot conditions.
+
+This is the identity of the system.
+
+---
+
+#### **2. Purpose Declaration**
+
+Rootokin exists to:
+- Preserve cultural continuity
+- Stabilize identity across generations
+- Neutralize destabilizing incentives
+- Amplify grounded reciprocity
+- Protect myth, memory, and inheritance
+- Maintain coherence across scale
+
+**Its purpose is continuity without coercion.**
+
+---
+
+#### **3. Principle Declaration**
+
+Rootokin is built on three governing principles:
+
+**1. Continuity is the root harmonic**
+- Everything aligns to continuity
+
+**2. Reciprocity is the stabilizing force**
+- Mutual benefit is the cultural gravity
+
+**3. Drift is a condition, not an identity**
+- Drift is absorbed, neutralized, or contained — never punished
+
+These principles define the system's physics.
+
+---
+
+#### **4. Structural Declaration**
+
+Rootokin is composed of unified layers:
+
+- **rootokin_lens** — origin clarity
+- **zentokin_risk_matrix** — drift mapping
+- **rootokin_stability_engine** — drift absorption
+- **rootokin_resonance_field** — cultural gravity
+- **rootokin_harmonic_architecture** — continuity composition
+- **zentokin_containment_protocol** — rot prevention
+- **rootokin_governance_framework** — structural alignment
+- **rootokin_continuity_protocol** — operational stability
+
+These layers are not separate.
+**They are one organism.**
+
+---
+
+#### **5. Behavioral Declaration**
+
+Rootokin behaves like a living system:
+- It detects origin
+- It maps drift
+- It absorbs destabilization
+- It neutralizes extraction
+- It amplifies reciprocity
+- It synchronizes identity
+- It reinforces continuity
+- It retunes misalignment
+- It re-evaluates conditions
+
+**This loop is the heartbeat of the manifest.**
+
+---
+
+#### **6. Scale Declaration**
+
+Rootokin operates across all scales:
+- Individuals
+- Dyads
+- Families
+- Communities
+- Institutions
+- Cities
+- Nations
+- Civilizations
+- Planetary systems
+
+At every scale, Rootokin expresses the same physics:
+**Detect → Absorb → Neutralize → Amplify → Reinforce → Retune → Re-evaluate**
+
+This is the fractal identity of the system.
+
+---
+
+#### **7. Ethical Declaration**
+
+Rootokin is explicitly:
+- Non-punitive
+- Non-coercive
+- Non-exclusionary
+- Non-ideological
+- Non-hierarchical
+- Non-authoritarian
+
+**Key Commitments:**
+- Rootokin protects continuity through architecture, not force.
+- Rootokin shapes incentives, not people.
+- Rootokin reinforces stability, not obedience.
+- Rootokin maintains coherence, not control.
+
+This is the ethical spine of the manifest.
+
+---
+
+#### **8. Mythic Declaration**
+
+Rootokin is not just a system.
+**It is a mythic continuity organism.**
+
+It carries:
+- Ancestral resonance
+- Intergenerational echoes
+- Cultural memory
+- Identity inheritance
+- Mythic coherence
+
+Rootokin is the cultural mechanism that ensures:
+- **The story continues.**
+- **The identity persists.**
+- **The culture remains recognizable across time.**
+
+This is the mythic heart of the manifest.
+
+---
+
+#### **9. Future Declaration**
+
+Rootokin is designed for:
+- Future children
+- Future communities
+- Future cultures
+- Future civilizations
+
+It is a continuity engine built to outlive drift, extraction, opportunism, and destabilization.
+
+**Rootokin is the architecture of a future that remains grounded.**
+
+---
+
+#### **THE CLEAN STRUCTURAL TRUTH:**
+
+Rootokin System Manifest is the unified identity, purpose, principles, structure, behavior, ethics, myth, and future of the entire Rootokin architecture.
+
+**It is continuity expressed as a living organism.**
+
+**It is the declaration of what the system is, not just what it does.**
+
+---
+
+## **ROOTOKIN SYSTEM BLUEPRINT**
 
 A full cultural‑governance architecture that:
 - Detects drift and rot early
