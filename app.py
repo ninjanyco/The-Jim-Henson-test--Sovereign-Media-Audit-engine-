@@ -2,6 +2,51 @@ import streamlit as st
 import json
 
 # ============================================================================
+# SECTION 0: CREATOR & DEFINITIONS REFERENCE
+# ============================================================================
+st.sidebar.markdown("""
+---
+### 🎬 Creator & Resources
+**Channel:** [@heroicnyco](https://youtube.com/@heroicnyco)
+
+**Foundational Terminology:**
+
+#### **ROOTOKIN** 
+*noun* — /ˈruː.toʊ.kɪn/
+
+A person with deep cultural grounding who engages with their own (or adopted) culture in a rooted, reciprocal, and contributory manner — preserving continuity, adding value, and maintaining authentic belonging rather than extraction or performance.
+
+**Characteristics:**
+- Possesses a stable, internalized cultural identity
+- Engages traditions with respect, context, and continuity
+- Contributes to cultural ecosystems rather than extracting from them
+- Maintains consistent reciprocity and mutual obligation
+- Builds and stewards cultural capital across generations
+- Acts from genuine belonging instead of performative leverage
+
+**Etymology:** From root- (rooted, fixed, established) + to- (toward, directed at) + -kin (type, kind, agent, person).
+
+---
+
+#### **ZENTOKIN**
+*noun* — /ˈzɛn.toʊ.kɪn/
+
+A person who, lacking deep cultural grounding of their own, directs themselves toward other cultures in an impulsive, performative, and extractive manner — using borrowed cultural elements as tools or weapons in ways that disrupt or erase the continuity of the source culture.
+
+**Characteristics:**
+- Has no rooted cultural identity
+- Acts toward other cultures opportunistically
+- Uses culture instrumentally rather than authentically
+- Performs identity for attention, status, or leverage
+- Extracts elements without respect, context, or continuity
+- Weaponizes mimicry to overshadow or destabilize the source
+
+**Etymology:** From zen- (without, lacking, empty of) + to- (toward, directed at, onto) + -kin (type, kind, agent, person).
+
+---
+""")
+
+# ============================================================================
 # SECTION 1: MASTER UI & LAYOUT SPECIFICATIONS
 # ============================================================================
 st.set_page_config(
