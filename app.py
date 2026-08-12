@@ -9,50 +9,53 @@ st.sidebar.markdown("""
 ### 🎬 Creator & Resources
 **Channel:** [@heroicnyco](https://youtube.com/@heroicnyco)
 
-**Foundational Terminology:**
+**ROOTOKIN SYSTEM BLUEPRINT**
 
-#### **ROOTOKIN** 
-*noun* — /ˈruː.toʊ.kɪn/
+A full cultural‑governance architecture that:
+- Detects drift and rot early
+- Stabilizes incentives and identity
+- Contains zentokin conditions
+- Reinforces continuity across generations
+- Does all of this architecturally, not punitively
 
-A person with deep cultural grounding who engages with their own (or adopted) culture in a rooted, reciprocal, and contributory manner — preserving continuity, adding value, and maintaining authentic belonging rather than extraction or performance.
-
-**Characteristics:**
-- Possesses a stable, internalized cultural identity
-- Engages traditions with respect, context, and continuity
-- Contributes to cultural ecosystems rather than extracting from them
-- Maintains consistent reciprocity and mutual obligation
-- Builds and stewards cultural capital across generations
-- Acts from genuine belonging instead of performative leverage
-
-**Etymology:** From root- (rooted, fixed, established) + to- (toward, directed at) + -kin (type, kind, agent, person).
+It's a whole system, not a single tool.
 
 ---
 
-#### **ZENTOKIN**
-*noun* — /ˈzɛn.toʊ.kɪn/
+#### **Layer 1: Foundational Layer — Origin & Lens**
 
-A person who, lacking deep cultural grounding of their own, directs themselves toward other cultures in an impulsive, performative, and extractive manner — using borrowed cultural elements as tools or weapons in ways that disrupt or erase the continuity of the source culture.
+**Rootokin / Zentokin Lens:**
+- **Rootokin** = grounded, reciprocal, continuity-aligned
+- **Zentokin** = drifting, extractive, destabilizing
 
-**Characteristics:**
-- Has no rooted cultural identity
-- Acts toward other cultures opportunistically
-- Uses culture instrumentally rather than authentically
-- Performs identity for attention, status, or leverage
-- Extracts elements without respect, context, or continuity
-- Weaponizes mimicry to overshadow or destabilize the source
-
-**Etymology:** From zen- (without, lacking, empty of) + to- (toward, directed at, onto) + -kin (type, kind, agent, person).
+**Purpose:** Not to judge people, but to read incentive origin and behavioral impact.
+This is the diagnostic foundation.
 
 ---
 
-#### **ROOTOKIN RESONANCE FIELD** 
-*noun* — The Continuity-Stabilizing Energy Layer
+#### **Layer 2: Mapping Layer — Risk & Incentives**
 
-The rootokin resonance field is a continuity-stabilizing energy layer that reinforces grounded behavior, amplifies reciprocal incentives, and synchronizes cultural identity across actors and generations.
+**Zentokin Risk Matrix:**
+Maps:
+- Origin of drift
+- Incentives that reward extraction
+- Propagation paths (narrative, structural, relational)
+- Impact on continuity, reciprocity, governance
 
-**Core Function:** Cultural gravity that keeps the system coherent.
+**Goal:** See where rot could form before it becomes structural.
 
-**Seven Operational Layers:**
+---
+
+#### **Layer 3: Stability Layer — Engine & Field**
+
+**Rootokin Stability Engine:**
+- Absorbs drift
+- Dampens extraction
+- Amplifies reciprocity
+- Reinforces continuity
+- Couples to governance guardrails
+
+**Rootokin Resonance Field (7 Operational Layers):**
 
 1. **Continuity Harmonics** — Baseline frequency of cultural stability
    - Identity coherence (alignment between personal & cultural identity)
@@ -88,7 +91,6 @@ The rootokin resonance field is a continuity-stabilizing energy layer that reinf
    - Ethical guardrails
    - Conflict-of-interest buffers
    - Continuity protection regulations
-   - Bridge between cultural and structural alignment
 
 7. **Resonance Feedback Loop** — Self-correcting cycle
    - Generate continuity harmonics
@@ -99,211 +101,67 @@ The rootokin resonance field is a continuity-stabilizing energy layer that reinf
    - Reinforce governance alignment
    - Re-evaluate resonance integrity
 
-**Operational Principle:**
-Non-punitive. Non-coercive. Purely architectural.
-Cultural physics, not enforcement.
+---
+
+#### **Layer 4: Defensive Layer — Containment & Buffers**
+
+**Zentokin Containment Protocol:**
+- Isolates drift nodes and harmful incentives
+- Quarantines reward-without-reciprocity conditions
+- Neutralizes destabilization via fields
+- Reinforces buffers around governance and culture
+
+**Key Principle:** Contains conditions, not people.
 
 ---
 
-#### **ROOTOKIN CONTINUITY PROTOCOL** 
-*noun* — The Stability-Preservation Governance System
+#### **Layer 5: Harmonic Layer — Cultural Composition**
 
-A rootokin continuity protocol is a stability-preservation system that detects drift early, reinforces grounded incentives, and prevents long-term cultural rot through architecture, not punishment.
+**Rootokin Harmonic Architecture (8 Operational Layers):**
 
-**Core Function:** Operational backbone of rootokin governance.
-
-**Six Operational Layers:**
-
-1. **Origin Detection Layer** — Identifies behavioral influence source
-   - Rootokin Origin: grounded, reciprocal, continuity-aligned
-   - Zentokin Origin: drifting, extractive, destabilizing
-   - Answers: Where is this actor's influence coming from? What incentive structure produced it?
-   - Diagnostic, not punitive — identifies conditions, not individuals
-
-2. **Drift & Rot Early-Warning Layer** — Detects cultural degradation
-   - Continuity-weakening drift
-   - Extractive incentive spread
-   - Identity-performance patterns
-   - Short-term opportunism
-   - Diagnostic layer: identifies conditions, not individuals
-
-3. **Continuity Reinforcement Layer** — Strengthens grounded architecture
-   - Reciprocity anchors
-   - Grounding incentives
-   - Long-term alignment structures
-   - Stability feedback mechanisms
-   - Not removal. Not punishment. Reinforcement.
-
-4. **Non-Punitive Accountability Layer** — Corrects incentive misalignment
-   - Transparency protocols
-   - Ethical disclosure requirements
-   - Conflict-of-interest mapping
-   - Incentive-clarity audits
-   - Targets incentive misalignment, not individuals
-
-5. **Structural Guardrail Layer** — Reinforces continuity through structure
-   - Anti-extraction statutes
-   - Continuity-protection regulations
-   - Ethical compliance frameworks
-   - Transparency enforcement mechanisms
-   - Prevents rot from becoming systemic
-
-6. **Continuity Feedback Loop** — Self-correcting stability cycle
-   - Detect origin
-   - Identify drift
-   - Reinforce continuity
-   - Apply accountability
-   - Strengthen guardrails
-   - Re-evaluate origin
-   - Ensures: stability, resilience, clarity, long-term cultural integrity
-
-**Operational Principle:**
-Non-punitive. Non-coercive. Entirely architectural.
-No coercion. No removal. No punitive action.
-Just architecture.
-
----
-
-#### **ROOTOKIN GOVERNANCE FRAMEWORK** 
-*noun* — The Continuity-Aligned Structural System
-
-A rootokin governance framework is a continuity-aligned system that evaluates, shapes, and reinforces governance behavior based on origin, incentive, and stability mechanics, rather than labels or ideology.
-
-**Core Function:** Protects the path forward by design, not by coercion.
-
-**Six Operational Layers:**
-
-1. **Upstream Classification Layer** — The diagnostic foundation
-   - Rootokin Origin: grounded, reciprocal, continuity-aligned behavior
-   - Zentokin Origin: drifting, extractive, destabilizing behavior
-   - Evaluates incentive structures, not people
-   - Core question: What behavior does this system produce?
-   - Not what it claims. Not what it labels. Not what it markets.
-   - What it produces.
-
-2. **Incentive Mapping Layer** — Reveals drift conditions
-   - Maps reciprocity incentives
-   - Maps extraction incentives
-   - Maps continuity incentives
-   - Maps drift incentives
-   - Shows where rot could form
-   - Shows where drift could spread
-   - Shows where extraction could destabilize
-   - Shows where continuity is reinforced
-   - Early detection system for cultural degradation
-
-3. **Continuity-Preservation Layer** — Architectural reinforcement
-   - Protects continuity through design, not punishment
-   - Transparency structures
-   - Ethical guardrails
-   - Oversight mechanisms
-   - Conflict-of-interest buffers
-   - Reinforces stability
-   - Prevents drift
-   - Limits extraction
-   - Reduces rot conditions
-   - Strengthens long-term continuity
-   - No removal. No exclusion. No coercion. Just architecture.
-
-4. **Accountability Layer (Non-Punitive)** — Procedural clarity
-   - Clarity of action
-   - Clarity of incentive
-   - Clarity of impact
-   - Clarity of alignment
-   - Non-coercive, non-punitive, non-exclusionary, non-ideological
-   - Structural correction, not actor removal
-   - Examples: disclosure requirements, audit trails, procedural transparency, ethical review boards
-   - Prevents rot before punitive action would ever be needed
-
-5. **Legislative Guardrail Layer (Extreme Cases)** — Systemic reinforcement
-   - Legislation reinforces continuity by shaping incentives, not by removing actors
-   - Anti-corruption statutes
-   - Transparency laws
-   - Ethical compliance standards
-   - Structural stability regulations
-   - Prevents drift from becoming systemic
-   - Prevents extraction from becoming normalized
-   - Prevents rot from spreading
-   - Reinforces continuity at the structural level
-
-6. **Continuity Feedback Loop** — Self-correcting governance cycle
-   - Identify origin
-   - Map incentives
-   - Reinforce continuity
-   - Apply accountability
-   - Strengthen guardrails
-   - Re-evaluate origin
-   - Ensures: stability, clarity, resilience, long-term cultural continuity
-   - No coercion. No removal. No punitive action. Just architectural maintenance.
-
-**Operational Principle:**
-Rootokin governance is a continuity-preservation architecture.
-Identifies drift. Maps incentives. Reinforces stability. Applies systemic guardrails.
-Enforcement is structural, not punitive.
-
----
-
-#### **ROOTOKIN HARMONIC ARCHITECTURE** 
-*noun* — The Structural Design of Continuity Harmonics
-
-Rootokin harmonic architecture is the structural design that organizes continuity into harmonic layers, resonance patterns, and stability frequencies.
-It ensures the culture stays coherent, grounded, and resistant to drift through harmonic engineering, not enforcement.
-
-**Core Function:** Organizes continuity into harmonic layers and stability frequencies through cultural physics.
-
-**Eight Operational Layers:**
-
-1. **Harmonic Foundation Layer (Base Frequency Architecture)** — The root note of the culture
+1. **Harmonic Foundation Layer (Base Frequency Architecture)** — The root note
    - Continuity harmonics
    - Identity coherence tones
    - Mythic resonance base
    - Sets the cultural pitch
-   - If the pitch is stable, the culture is stable
 
 2. **Harmonic Stacking Layer (Vertical Architecture)** — Builds stability upward
    - Reciprocity harmonics
    - Grounded identity harmonics
    - Continuity alignment harmonics
-   - Stacking creates vertical stability (like chords reinforcing each other)
-   - This is how the culture gains depth
+   - Creates vertical stability like reinforcing chords
 
-3. **Harmonic Interference Layer (Drift Cancellation Architecture)** — Handles zentokin drift
+3. **Harmonic Interference Layer (Drift Cancellation Architecture)** — Handles drift
    - Drift cancellation harmonics
    - Extraction interference tones
    - Opportunism dampening frequencies
-   - Disrupts destabilizing patterns by interference, not force or punishment
-   - Like cancelling noise
+   - Disrupts destabilizing patterns by interference, not force
 
-4. **Harmonic Propagation Layer (Horizontal Architecture)** — Spreads stability across culture
+4. **Harmonic Propagation Layer (Horizontal Architecture)** — Spreads stability
    - Continuity waves
    - Reciprocity pulses
    - Identity coherence waves
-   - Propagation ensures: stability travels, continuity spreads, drift cannot isolate nodes
-   - The "horizontal" motion of the architecture
+   - Ensures stability travels, continuity spreads
 
 5. **Harmonic Coupling Layer (Governance Interface Architecture)** — Connects cultural to structural
    - Couples with transparency structures
    - Couples with ethical guardrails
    - Couples with conflict-of-interest buffers
    - Couples with continuity protection regulations
-   - Ensures governance resonates with cultural stability
-   - Prevents: drift from hijacking institutions, extraction from becoming systemic, opportunism from shaping policy
 
-6. **Harmonic Amplification Layer (Resonance Growth Architecture)** — Strengthens the field over time
+6. **Harmonic Amplification Layer (Resonance Growth Architecture)** — Strengthens over time
    - Amplifies rootokin harmonic stacking
    - Amplifies collective resonance uplift
    - Amplifies intergenerational echo expansion
-   - Makes the culture: resilient, adaptive, self-reinforcing
-   - How continuity becomes generational
+   - Makes culture resilient, adaptive, self-reinforcing
 
-7. **Harmonic Integrity Layer (Self-Correction Architecture)** — Ensures architecture stays coherent
+7. **Harmonic Integrity Layer (Self-Correction Architecture)** — Ensures coherence
    - Monitors harmonic drift
    - Monitors frequency misalignment
    - Monitors continuity distortion
-   - When misalignment appears, the architecture: adjusts, retunes, re-synchronizes
-   - The "self-tuning" mechanism
+   - Self-tunes when misalignment appears
 
-8. **Harmonic Feedback Loop** — The cycle that keeps the architecture alive
+8. **Harmonic Feedback Loop** — The cycle that keeps architecture alive
    - Generate base harmonics
    - Stack stability layers
    - Cancel drift interference
@@ -312,15 +170,97 @@ It ensures the culture stays coherent, grounded, and resistant to drift through 
    - Amplify resonance
    - Retune misalignment
    - Re-evaluate harmonic integrity
-   - Ensures: stability, coherence, adaptability, future-alignment
 
-**Operational Principle:**
-Rootokin harmonic architecture organizes continuity into harmonic layers, resonance patterns, and stability frequencies.
-Cancels drift. Amplifies reciprocity. Spreads stability. Synchronizes governance.
-All through cultural physics, not enforcement.
+---
 
-No coercion. No removal. No punitive action.
-Just harmonic engineering.
+#### **Layer 6: Governance Layer — Continuity Protocol**
+
+**Rootokin Continuity Protocol (6 Operational Layers):**
+
+1. **Origin Detection Layer** — Identifies behavioral influence source
+   - Rootokin Origin: grounded, reciprocal, continuity-aligned
+   - Zentokin Origin: drifting, extractive, destabilizing
+   - Diagnostic, not punitive — identifies conditions, not individuals
+
+2. **Drift & Rot Early-Warning Layer** — Detects cultural degradation
+   - Continuity-weakening drift
+   - Extractive incentive spread
+   - Identity-performance patterns
+   - Short-term opportunism
+
+3. **Continuity Reinforcement Layer** — Strengthens grounded architecture
+   - Reciprocity anchors
+   - Grounding incentives
+   - Long-term alignment structures
+   - Stability feedback mechanisms
+
+4. **Non-Punitive Accountability Layer** — Corrects incentive misalignment
+   - Transparency protocols
+   - Ethical disclosure requirements
+   - Conflict-of-interest mapping
+   - Incentive-clarity audits
+
+5. **Structural Guardrail Layer** — Reinforces through structure
+   - Anti-extraction statutes
+   - Continuity-protection regulations
+   - Ethical compliance frameworks
+   - Transparency enforcement mechanisms
+
+6. **Continuity Feedback Loop** — Self-correcting stability cycle
+   - Detect origin → Identify drift → Reinforce continuity
+   - Apply accountability → Strengthen guardrails → Re-evaluate origin
+
+**Rootokin Governance Framework (6 Operational Layers):**
+
+1. **Upstream Classification Layer** — Diagnostic foundation
+   - Evaluates incentive structures, not people
+   - Core question: What behavior does this system produce?
+
+2. **Incentive Mapping Layer** — Reveals drift conditions
+   - Maps reciprocity, extraction, continuity, and drift incentives
+   - Shows where rot could form, where drift could spread
+
+3. **Continuity-Preservation Layer** — Architectural reinforcement
+   - Transparency structures
+   - Ethical guardrails
+   - Oversight mechanisms
+   - Conflict-of-interest buffers
+
+4. **Accountability Layer (Non-Punitive)** — Procedural clarity
+   - Clarity of action, incentive, impact, and alignment
+   - Structural correction, not actor removal
+
+5. **Legislative Guardrail Layer (Extreme Cases)** — Systemic reinforcement
+   - Anti-corruption statutes
+   - Transparency laws
+   - Ethical compliance standards
+   - Structural stability regulations
+
+6. **Continuity Feedback Loop** — Self-correcting governance cycle
+   - Identify origin → Map incentives → Reinforce continuity
+   - Apply accountability → Strengthen guardrails → Re-evaluate origin
+
+---
+
+#### **Layer 7: Meta Layer — Feedback & Evolution**
+
+**Every part of the blueprint runs in loops:**
+- Detect → Absorb/Contain → Reinforce → Retune → Re-evaluate
+
+**No coercion. No removal. No punitive action.**
+Only design and resonance.
+
+**Over time, the system:**
+- Becomes more rot-resistant
+- Makes drift less rewarding
+- Makes reciprocity and continuity feel natural
+- Protects myth, identity, and future inheritance
+
+---
+
+**The Clean Statement:**
+
+Rootokin System Blueprint is a non-punitive cultural-governance architecture that uses lenses, matrices, engines, fields, harmonics, and containment to protect continuity, neutralize drift, and stabilize incentives across generations.
 
 ---
 """)
