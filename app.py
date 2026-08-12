@@ -163,6 +163,85 @@ No coercion. No removal. No punitive action.
 Just architecture.
 
 ---
+
+#### **ROOTOKIN GOVERNANCE FRAMEWORK** 
+*noun* — The Continuity-Aligned Structural System
+
+A rootokin governance framework is a continuity-aligned system that evaluates, shapes, and reinforces governance behavior based on origin, incentive, and stability mechanics, rather than labels or ideology.
+
+**Core Function:** Protects the path forward by design, not by coercion.
+
+**Six Operational Layers:**
+
+1. **Upstream Classification Layer** — The diagnostic foundation
+   - Rootokin Origin: grounded, reciprocal, continuity-aligned behavior
+   - Zentokin Origin: drifting, extractive, destabilizing behavior
+   - Evaluates incentive structures, not people
+   - Core question: What behavior does this system produce?
+   - Not what it claims. Not what it labels. Not what it markets.
+   - What it produces.
+
+2. **Incentive Mapping Layer** — Reveals drift conditions
+   - Maps reciprocity incentives
+   - Maps extraction incentives
+   - Maps continuity incentives
+   - Maps drift incentives
+   - Shows where rot could form
+   - Shows where drift could spread
+   - Shows where extraction could destabilize
+   - Shows where continuity is reinforced
+   - Early detection system for cultural degradation
+
+3. **Continuity-Preservation Layer** — Architectural reinforcement
+   - Protects continuity through design, not punishment
+   - Transparency structures
+   - Ethical guardrails
+   - Oversight mechanisms
+   - Conflict-of-interest buffers
+   - Reinforces stability
+   - Prevents drift
+   - Limits extraction
+   - Reduces rot conditions
+   - Strengthens long-term continuity
+   - No removal. No exclusion. No coercion. Just architecture.
+
+4. **Accountability Layer (Non-Punitive)** — Procedural clarity
+   - Clarity of action
+   - Clarity of incentive
+   - Clarity of impact
+   - Clarity of alignment
+   - Non-coercive, non-punitive, non-exclusionary, non-ideological
+   - Structural correction, not actor removal
+   - Examples: disclosure requirements, audit trails, procedural transparency, ethical review boards
+   - Prevents rot before punitive action would ever be needed
+
+5. **Legislative Guardrail Layer (Extreme Cases)** — Systemic reinforcement
+   - Legislation reinforces continuity by shaping incentives, not by removing actors
+   - Anti-corruption statutes
+   - Transparency laws
+   - Ethical compliance standards
+   - Structural stability regulations
+   - Prevents drift from becoming systemic
+   - Prevents extraction from becoming normalized
+   - Prevents rot from spreading
+   - Reinforces continuity at the structural level
+
+6. **Continuity Feedback Loop** — Self-correcting governance cycle
+   - Identify origin
+   - Map incentives
+   - Reinforce continuity
+   - Apply accountability
+   - Strengthen guardrails
+   - Re-evaluate origin
+   - Ensures: stability, clarity, resilience, long-term cultural continuity
+   - No coercion. No removal. No punitive action. Just architectural maintenance.
+
+**Operational Principle:**
+Rootokin governance is a continuity-preservation architecture.
+Identifies drift. Maps incentives. Reinforces stability. Applies systemic guardrails.
+Enforcement is structural, not punitive.
+
+---
 """)
 
 # ============================================================================
